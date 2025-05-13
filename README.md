@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` template for your GitHub repository on sentiment analysis. This template covers project description, installation instructions, usage examples, and other essential details to make it easy for others to understand and use your code.
-
 ---
 
 # Sentiment Analysis on Amazon Food Reviews
